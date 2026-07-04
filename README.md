@@ -15,7 +15,7 @@ During an investigation, establishing a user's "Pattern of Life" is critical for
 1. Download the script to a forensic USB drive or local environment.
 2. Execute the script natively in a Windows environment.
 ```bash
-python chrome_triage.py
+python Web_Browser_triage.py
 ```
 3. The script will automatically generate a timestamped `Forensic_Web_History_Report.csv` in the root directory.
 
